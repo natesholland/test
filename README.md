@@ -18,7 +18,9 @@ This repository ("`Code - OSS`") is where we (Microsoft) develop the [Visual Stu
 Let's add
 more lines
 to this
+lines around
 area of
+lines around
 the readme
 
 <p align="center">
