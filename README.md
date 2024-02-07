@@ -15,7 +15,10 @@ This repository ("`Code - OSS`") is where we (Microsoft) develop the [Visual Stu
 
 ## Visual Studio Code
 Let's add
+more
+more
 some lines
+so much more
 to this
 area of
 the diff
