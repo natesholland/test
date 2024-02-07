@@ -17,7 +17,6 @@ This repository ("`Code - OSS`") is where we (Microsoft) develop the [Visual Stu
 ## Visual Studio Code
 some lines
 Let's add
-some lines
 more
 more
 so much more
