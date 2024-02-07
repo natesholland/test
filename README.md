@@ -20,7 +20,6 @@ Let's add
 some lines
 more
 more
-some lines
 so much more
 to this
 area of
