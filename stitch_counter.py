@@ -5,6 +5,7 @@ from pprint import pp
 
 filepath = 'zoe_eric_stitch.png'
 
+// These are some visuals for the margins.
 margin_left = 8
 margin_right = 8
 margin_top = 8
@@ -13,6 +14,7 @@ margin_bottom = 24
 box_width = 7.5
 line_width = 1
 
+// This helps us set the size of our piece
 num_stitches_x = 140
 num_stitches_y = 140
 stitches_width = 1182
