@@ -3,10 +3,10 @@ import math
 from collections import defaultdict
 from pprint import pp
 
-// this is the output file path
+# this is the output file path
 filepath = 'zoe_eric_stitch.png'
 
-// These are some visuals for the margins.
+# These are some visuals for the margins.
 margin_left = 8
 margin_right = 8
 margin_top = 8
@@ -15,7 +15,7 @@ margin_bottom = 24
 box_width = 7.5
 line_width = 1
 
-// This helps us set the size of our piece
+# This helps us set the size of our piece
 num_stitches_x = 140
 num_stitches_y = 140
 stitches_width = 1182
@@ -25,7 +25,7 @@ stitches_height = 1182
 # y first, then x
 stitch = imageio.v3.imread(filepath)
 
-
+# Set up the shape of the piece
 image_y, image_x, _z = stitch.shape
 
 stitch_count = 0
