@@ -14,7 +14,7 @@ margin_bottom = 24
 box_width = 7.5
 line_width = 1
 
-# this counts the number of stitches x and y
+# this counts the number of stitches y and x
 num_stitches_x = 140
 num_stitches_y = 140
 # This is the dimensions of the image in pixels
