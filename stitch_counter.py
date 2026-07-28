@@ -18,6 +18,8 @@ line_width = 1
 # This helps us set the size of our piece
 num_stitches_x = 140
 num_stitches_y = 140
+# this is the width in pixels of the piece which we use
+# to calculate the size of each stich
 stitches_width = 1182
 stitches_height = 1182
 
@@ -28,6 +30,7 @@ stitch = imageio.v3.imread(filepath)
 # Set up the shape of the piece
 image_y, image_x, _z = stitch.shape
 
+# Set some initialization values
 stitch_count = 0
 color_counts = defaultdict(int)
 
