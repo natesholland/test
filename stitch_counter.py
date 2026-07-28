@@ -30,6 +30,7 @@ stitch = imageio.v3.imread(filepath)
 # Set up the shape of the piece
 image_y, image_x, _z = stitch.shape
 
+# Set some initialization values
 stitch_count = 0
 color_counts = defaultdict(int)
 
