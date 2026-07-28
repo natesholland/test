@@ -28,6 +28,7 @@ stitch = imageio.v3.imread(filepath)
 
 image_y, image_x, _z = stitch.shape
 
+# initialize things to empty
 stitch_count = 0
 color_counts = defaultdict(int)
 
