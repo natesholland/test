@@ -3,6 +3,7 @@ import math
 from collections import defaultdict
 from pprint import pp
 
+# this is the filepath
 filepath = 'zoe_eric_stitch.png'
 
 margin_left = 8
