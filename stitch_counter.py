@@ -3,6 +3,7 @@ import math
 from collections import defaultdict
 from pprint import pp
 
+// this is the output file path
 filepath = 'zoe_eric_stitch.png'
 
 // These are some visuals for the margins.
