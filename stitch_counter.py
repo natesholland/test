@@ -18,6 +18,8 @@ line_width = 1
 # This helps us set the size of our piece
 num_stitches_x = 140
 num_stitches_y = 140
+# this is the width in pixels of the piece which we use
+# to calculate the size of each stich
 stitches_width = 1182
 stitches_height = 1182
 
