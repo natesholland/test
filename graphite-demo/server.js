@@ -5,12 +5,12 @@ const port = 3000;
 // Fake data for the activity feed
 const activityFeed = [
   {
-    id: 2000,
+    id: 3000,
     title: 'New Photo Uploaded',
     body: 'Alice uploaded a new photo to her album.'
   },
   {
-    id: 4000,
+    id: 5000,
     title: 'Comment on Post',
     body: "Bob commented on Charlie's post."
   },
