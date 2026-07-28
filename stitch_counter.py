@@ -3,6 +3,7 @@ import math
 from collections import defaultdict
 from pprint import pp
 
+# this is the filepath
 filepath = 'zoe_eric_stitch.png'
 
 margin_left = 8
@@ -13,8 +14,10 @@ margin_bottom = 24
 box_width = 7.5
 line_width = 1
 
+# this counts the number of stitches y and x
 num_stitches_x = 140
 num_stitches_y = 140
+# This is the dimensions of the image in pixels
 stitches_width = 1182
 stitches_height = 1182
 
