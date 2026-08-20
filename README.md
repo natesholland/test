@@ -56,6 +56,8 @@ please see the document [How to Contribute](https://github.com/microsoft/vscode/
 * Connect with the extension author community on [GitHub Discussions](https://github.com/microsoft/vscode-discussions/discussions) or [Slack](https://aka.ms/vscode-dev-community)
 * Follow [@code](https://twitter.com/code) and let us know what you think!
 
+third PR in the stack
+
 See our [wiki](https://github.com/microsoft/vscode/wiki/Feedback-Channels) for a description of each of these channels and information on some other available community-driven channels.
 
 ## Related Projects
