@@ -38,6 +38,7 @@ There are many ways in which you can participate in this project, for example:
 Second PR in the stack, but now more better
 
 2.1 changes
+2.2 changes
 
 If you are interested in fixing issues and contributing directly to the code base,
 please see the document [How to Contribute](https://github.com/microsoft/vscode/wiki/How-to-Contribute), which covers the following:
